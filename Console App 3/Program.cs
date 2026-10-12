@@ -169,25 +169,28 @@
 //}
 
 
-while (true)
-{
-    Console.WriteLine("1 вход в игру");
-    Console.WriteLine("2 сохранить игру");
-    Console.WriteLine("3 загрузить игру");
-    Console.WriteLine("4 Выход из игры");
+//while (true)
+//{
+//    Console.WriteLine("1 вход в игру");
+//    Console.WriteLine("2 сохранить игру");
+//    Console.WriteLine("3 загрузить игру");
+//    Console.WriteLine("4 Выход из игры");
 
-    int press = Convert.ToInt32(Console.ReadLine());
+//    int press = Convert.ToInt32(Console.ReadLine());
 
-    if (press == 4)
-    {
-        Console.WriteLine("4 Выход из игры");
-        break;
-    }
-    else if (press == 5 || press <= 0)
-    {
-        Console.WriteLine("Для выхода из игры нажмите кнопку 4");
-    } 
-}
+//    if (press == 4)
+//    {
+//        Console.WriteLine("4 Выход из игры");
+//        break;
+//    }
+//    else if (press == 5 || press <= 0)
+//    {
+//        Console.WriteLine("Для выхода из игры нажмите кнопку 4");
+//    } 
+//}
+
+
+
 
 
 
